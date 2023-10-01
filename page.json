@@ -9,14 +9,29 @@
       "icon": "instagram"
     },
     {
-      "title": "Twitter",
-      "url": "http://twitter.com/wilgory",
-      "icon": "twitter"
+      "title": "Facebook",
+      "url": "http://facebook.com/wilgory",
+      "icon": "facebook"
     },
     {
       "title": "LinkedIn",
       "url": "http://linkedin.com/in/wilgory",
       "icon": "linkedin"
+    },
+    {
+      "title": "Twitter",
+      "url": "http://twitter.com/wilgory",
+      "icon": "twitter"
+    },
+        {
+      "title": "Behance",
+      "url": "http://behance.com/wilgory",
+      "icon": "Behance"
+    },
+        {
+      "title": "Threads",
+      "url": "http://threads.com/wilgory",
+      "icon": "threads"
     },
     {
       "title": "GitHub",
@@ -28,5 +43,6 @@
       "url": "https://youtube.com/wilgory",
       "icon": "youtube"
     }
+    
   ]
 }
