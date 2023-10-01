@@ -34,15 +34,15 @@
       "icon": "threads"
     },
     {
-      "title": "GitHub",
-      "url": "http://github.com/wilgory",
-      "icon": "github"
-    },
-    {
       "title": "Youtube",
       "url": "https://youtube.com/wilgory",
       "icon": "youtube"
     }
+    {
+      "title": "GitHub",
+      "url": "http://github.com/wilgory",
+      "icon": "github"
+    },
     
   ]
 }
