@@ -8,17 +8,17 @@
       "url": "https://instagram.com/wilgory",
       "icon": "instagram"
     },
-    {
+        {
       "title": "Facebook",
       "url": "https://facebook.com/wilgory",
       "icon": "facebook"
     },
-    {
+        {
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/wilgory",
       "icon": "linkedin"
     },
-    {
+        {
       "title": "Twitter",
       "url": "https://twitter.com/wilgory",
       "icon": "twitter"
@@ -43,6 +43,5 @@
       "url": "http://github.com/wilgory",
       "icon": "github"
     },
-    
   ]
 }
