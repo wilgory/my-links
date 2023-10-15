@@ -27,6 +27,11 @@
       "title": "website",
       "url": "http://wilgory.com",
       "icon": "gitlab"
+    },
+        {
+      "title": "website",
+      "url": "http://GregoryWilsonPhoto.com",
+      "icon": "website"
     }
   ]
 }
