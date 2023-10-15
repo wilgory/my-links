@@ -1,31 +1,31 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Gregory Wilson",
+  "description": "Multimedia Designer - Photographer - Cinematographer - Motion Design",
+  "image_url": "https://www.wilgory.com/wp-content/uploads/2023/10/WLogo_2023_black-1.png",
   "links": [
     {
       "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
+      "url": "https://instagram.com/wilgory",
       "icon": "instagram"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "http://twitter.com/wilgory",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "http://linkedin.com/wilgory",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "http://github.com/wilgory",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
+      "title": "website",
+      "url": "http://wilgory.com",
       "icon": "gitlab"
     }
   ]
